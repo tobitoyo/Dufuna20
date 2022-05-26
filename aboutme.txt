@@ -1,3 +1,5 @@
 Hello Dufuna,
 
 I'm Tobi Toyo, a full stack developer
+
+Git has been interesting courtesy of Dufuna
